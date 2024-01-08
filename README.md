@@ -29,7 +29,7 @@ The primary key's main features:
 
 - For example, our table contains a record for each name in a phone book. The unique ID number would be a good choice for a primary key in the table, as there is always the chance for more than one person to have the same name.
 |ID| Name | Phone |
-| - || :- | :-
+| - || :- | :-|
 |1| vikash |  7693564829 |
 |2| piyush | 7393564829 |
 |3| piyush | 7993564829|
